@@ -1,6 +1,6 @@
 # matheusgabriel
 
-## Olá! Me chamo Matheus Gabriel, estudo para me tornar um FullStack Dev.
+## Olá! Me chamo Matheus Gabriel e estudo para me tornar um FullStack Dev
 
 <h3>🌟 Atualmente estudando: 🌟</h3> 
 <h4>👩‍💻 JAVA com API RESTful. </h4>
