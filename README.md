@@ -1,6 +1,13 @@
 # matheusgabriel
 
 ## Olá! Me chamo Matheus Gabriel, estudo para me tornar um FullStack Dev.
+
+<h3>🌟 Atualmente estudando: 🌟</h3> 
+<h4>👩‍💻 JAVA com API RESTful. </h4>
+<h4>👩‍💻 Javascript, HTML e CSS. </h4>
+
+
+
 <div align="center">
   <a href="https://github.com/teuz044">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teuz044&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
