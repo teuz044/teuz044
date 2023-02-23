@@ -3,7 +3,7 @@
 ## Olá! Me chamo Matheus Gabriel e estudo para me tornar um FullStack Dev
 
 <h3>🌟 Atualmente estudando: 🌟</h3> 
-<h4>👩‍💻 JAVA com API RESTful. </h4>
+<h4>👩‍💻 JAVA, Spring Boot, API RESTful e Microserviços. </h4>
 <h4>👩‍💻 Javascript, HTML e CSS. </h4>
 
 
