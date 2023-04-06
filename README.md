@@ -1,11 +1,10 @@
 # matheusgabriel
 
-## Olá! Me chamo Matheus Gabriel e estudo para me tornar um FullStack Dev
+## Olá! Me chamo Matheus Gabriel e estudo para me tornar um Desenvolvedor Fullstack
 
 <h3>🌟 Atualmente estudando: 🌟</h3> 
 <h4>👩‍💻 JAVA, Spring Boot, API RESTful e Microserviços. </h4>
 <h4>👩‍💻 Javascript, HTML e CSS. </h4>
-
 
 
 <div align="center">
@@ -27,7 +26,6 @@
   <a href="https://www.instagram.com/matheus.gabriel57/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheus.gabriel80@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-gabriel-1346bb176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
