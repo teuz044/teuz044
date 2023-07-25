@@ -1,9 +1,10 @@
 # matheusgabriel
 
-## Olá! Me chamo Matheus Gabriel e estudo para me tornar um Desenvolvedor Fullstack
+## Olá! Me chamo Matheus Gabriel e sou desenvolvedor de software.
 
-<h3>🌟 Atualmente estudando: 🌟</h3> 
-<h4>👩‍💻 JAVA, Spring Boot, API RESTful e Microserviços. </h4>
+<h3>🌟 Atualmente trabalhando com foco em Flutter/Dart 🌟</h3> 
+<h4>Tenho conhecimentos em:</h4>
+<h4>👩‍💻 Flutter, Dart, Java, Spring Boot, API RESTful e Microserviços. </h4>
 <h4>👩‍💻 Javascript, HTML e CSS. </h4>
 
 
