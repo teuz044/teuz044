@@ -4,7 +4,7 @@
 
 <h3>🌟 Atualmente trabalhando com foco em Flutter/Dart 🌟</h3> 
 <h4>Tenho conhecimentos em:</h4>
-<h4>👩‍💻 Flutter, Dart, Java, Spring Boot, API RESTful, Microserviços, </h4>
+<h4>👩‍💻 Flutter, Dart, Java, Spring Boot, MYSQL, API RESTful, Microserviços, C# e .NET </h4>
 <h4>👩‍💻 Javascript, HTML e CSS. </h4>
 
 
